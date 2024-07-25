@@ -1,0 +1,4 @@
+MongoDB + Express + React + NodeJS
+
+Client <-> FE Server(react) <-> BE Server(node + express) <-> Database(MongoDB)
+                    
