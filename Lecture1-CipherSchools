@@ -1,0 +1,12 @@
+Installing IDE
+A full stack web developer is the person who knows to manage both frontend development and backend development
+There are multiple types of both frontend and backend development
+They can be classified as
+Frontend development - Desktop Application Development, Mobile Application Development, Web Application Development
+Backend development - Rest Full Development, Web Socket Development, Graph QL Development
+In this lecture we will learn to install the required software
+First download node.js
+open the terminal and 
+type node -v : it will display the version of node.js installed on the machine
+type npm -v : it will display the right version of npm installed in your machine
+Now download Visual Studio Code to begin with other languages.
