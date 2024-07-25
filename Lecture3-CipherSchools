@@ -1,0 +1,12 @@
+Overview of Internet Technologies
+In this lecture we will learn how internet technologies work primary the frontend and the backend
+the frontend and backend together forms a web application
+the frontend part contains how a website should look like, how the website should interact and behave
+the backend connects to the database and keep records of the website with all the information about the site
+the system is connected to the frontend server which is then connected to the backend sserver and then the backend server and the database are connected internally
+both the frontend and backend needs to work together, failure of one may result in failure of the entire website
+in this course all the frontend part will be written with React, the backend part with Node + express and the database with MongoDB
+when we use some website the DNS in our area identifies that which domain name is connected to which Ip Address, 
+after finding the address of the frontend server it makes the request to the ip address and then the information between the server and the system will be transferred with the help of OSI layer
+in a web application there can be multiple backend servers doing different jobs
+similarly there can be multiple database servers doing different jobs
